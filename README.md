@@ -1,34 +1,45 @@
-### 🤞 Nice way to meet me
 <p>
-  <a href="https://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-  <a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/hyeong._.ju/" target='_blank'>
+    <img src="https://img.shields.io/badge/Instagram-fc65f5?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyeong._.ju/"/>
+  </a>&nbsp
+  <a href="mailto:hybrid.simpler@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hybrid.simpler@gmail.com"/>
+  </a>
+</p>
+<p>
+  👋&nbsp; Hi there! I'm <b>web developer</b> !
 </p>
 
+<h3>📚 Stacks</h3>
 <p>
-  👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
-  I have experience 7 years of Android development and 2 years of iOS development.<br/>
-  For the past year, I have been interested in creating Graph-QL APIs with Quarkus and a web screen with React.<br/>
-  Sometimes I develop cross-platforms mobile app like ReactNative or Flutter. (but prefer native💖)<br/><br/>
-  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
+  <img src="https://img.shields.io/badge/-JAVA-red"/>
+  <img src="https://img.shields.io/badge/-SPRING-red"/>
+  <img src="https://img.shields.io/badge/-PYTHON-brightgreen"/>
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>
+  <img src="https://img.shields.io/badge/-OpenLayers-yellow"/>
+  <br>
+  <img src="https://img.shields.io/badge/-ORACLE-important"/>
+  <img src="https://img.shields.io/badge/-MySQL-important"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-important"/>
+  <img src="https://img.shields.io/badge/-PostGIS-important"/>
 </p>
 
+<h3>🛠 Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/-InteliJ-9cf"/>
+  <img src="https://img.shields.io/badge/-DataGrip-9cf"/>
+  <img src="https://img.shields.io/badge/-Eclipse-9cf"/>
+  <img src="https://img.shields.io/badge/-VS Code-9cf"/>
+  <br>
+  <img src="https://img.shields.io/badge/-Git-yellowgreen"/>
+  <img src="https://img.shields.io/badge/-GitHub-yellowgreen"/>
+  <img src="https://img.shields.io/badge/-Subversion-yellowgreen"/>
+  <img src="https://img.shields.io/badge/-Postman-gray"/>
+  <img src="https://img.shields.io/badge/-Notion-gray"/>
+</p>
+<div>
 
-### 💪 Skills
-#### Platforms & Languages
-<p>
-  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=Quarkus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
-</p>
+<h3>📚 Status</h3>
+<div>
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeongjukim&layout=compact&theme=material-palenight&langs_count=8">
+</div>
